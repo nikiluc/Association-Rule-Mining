@@ -1,0 +1,20 @@
+Report 2
+
+
+Top 15 Rules
+
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado'}) conf: 0.805267358339984 lift: 1.5226494099733536
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'RealLemon Pure Lemon Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.9200710479573714 lift: 1.953125
+frozenset({'Skippy Peanut Butter'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.7541899441340782 lift: 2.0714655618850335
+frozenset({'Ocean Spray White Grapefruit Juice'})-->frozenset({'Apple & Eve Apple Juice'}) conf: 0.7413793103448276 lift: 2.4691358024691357
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado', "Puff's Plus Facial Tissue"}) conf: 0.7031125299281724 lift: 2.2075055187637966
+frozenset({'Tylenol Infant Liquid'})-->frozenset({'Avocado'}) conf: 0.6971544715447154 lift: 1.5226494099733536
+frozenset({'Avocado'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.6897601827179293 lift: 2.0714655618850335
+frozenset({'Cucumber'})-->frozenset({'Avocado'}) conf: 0.6809006211180124 lift: 1.5226494099733539
+frozenset({'Red Pepper'})-->frozenset({'Avocado'}) conf: 0.6783369803063458 lift: 1.5226494099733539
+frozenset({'Perdue Chicken Breasts'})-->frozenset({'Avocado'}) conf: 0.6754498714652956 lift: 1.5226494099733539
+frozenset({'Old El Paso Salsa'})-->frozenset({'Avocado'}) conf: 0.6728354263053536 lift: 1.5226494099733536
+frozenset({'Tropican Orange Juice'})-->frozenset({'Avocado'}) conf: 0.6694533762057877 lift: 1.5226494099733536

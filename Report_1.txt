@@ -1,0 +1,238 @@
+Report 1
+
+Time: 1.6038823127746582
+Support: 0.2
+Confidence: 0.5
+K: 1 items 71
+K: 2 items 69
+K: 3 items 3
+K: 4 items 0
+Largest K: 3
+Number of rules in largest K: 3
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({'General Mills Wheat Chex'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5146417445482866 lift: 1.9531249999999998
+frozenset({'Scott 12-Pack White Bath Tissue'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5237789203084833 lift: 1.953125
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5106981981981982 lift: 1.953125
+frozenset({'Bananas'})-->frozenset({'Avocado'}) conf: 0.653876898481215 lift: 1.5226494099733539
+frozenset({'Bigelow Apple & Cinnamon Herb Tea'})-->frozenset({'Avocado'}) conf: 0.6581254214430209 lift: 1.5226494099733539
+frozenset({'Cinna-Crunch Pebbles'})-->frozenset({'Avocado'}) conf: 0.6639621365787693 lift: 1.5226494099733539
+frozenset({'Kodak Gold Max'})-->frozenset({'Avocado'}) conf: 0.656191074795726 lift: 1.5226494099733536
+frozenset({'General Mills Wheat Chex'})-->frozenset({'Avocado'}) conf: 0.6510903426791277 lift: 1.5226494099733539
+frozenset({'Broccoli'})-->frozenset({'Avocado'}) conf: 0.6515463917525772 lift: 1.5226494099733539
+frozenset({'Large Eggs'})-->frozenset({'Avocado'}) conf: 0.6622123236822569 lift: 1.5226494099733539
+frozenset({'Fancy Feast Cat Food'})-->frozenset({'Avocado'}) conf: 0.6599084368868541 lift: 1.5226494099733536
+frozenset({'Mentadent Toothbrush'})-->frozenset({'Avocado'}) conf: 0.6542253521126761 lift: 1.5226494099733539
+frozenset({'London Broil'})-->frozenset({'Avocado'}) conf: 0.643939393939394 lift: 1.5226494099733536
+frozenset({'Cucumber'})-->frozenset({'Avocado'}) conf: 0.6809006211180124 lift: 1.5226494099733539
+frozenset({'Tide Ultra Liquid Detergent'})-->frozenset({'Avocado'}) conf: 0.660300136425648 lift: 1.5226494099733539
+frozenset({'Apples'})-->frozenset({'Avocado'}) conf: 0.6572739187418085 lift: 1.5226494099733536
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado'}) conf: 0.805267358339984 lift: 1.5226494099733536
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Avocado'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.6897601827179293 lift: 2.0714655618850335
+frozenset({'Perdue Chicken Breasts'})-->frozenset({'Avocado'}) conf: 0.6754498714652956 lift: 1.5226494099733539
+frozenset({'Skippy Peanut Butter'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.7541899441340782 lift: 2.0714655618850335
+frozenset({'Purina Dog Chow'})-->frozenset({'Avocado'}) conf: 0.6620408163265306 lift: 1.5226494099733536
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Avocado'}) conf: 0.6483160621761657 lift: 1.5226494099733539
+frozenset({'Tropican Orange Juice'})-->frozenset({'Avocado'}) conf: 0.6694533762057877 lift: 1.5226494099733536
+frozenset({'Del Monte Corn'})-->frozenset({'Avocado'}) conf: 0.659951651893634 lift: 1.5226494099733539
+frozenset({'Dole 6-Pack Pineapple Juice'})-->frozenset({'Avocado'}) conf: 0.646484375 lift: 1.5226494099733536
+frozenset({'Avocado'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5039969547011801 lift: 1.953125
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5178663904712584 lift: 1.953125
+frozenset({'Onion Dip'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5081555834378921 lift: 1.953125
+frozenset({'Apple & Eve Apple Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5487654320987654 lift: 1.953125
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'Avocado'}) conf: 0.6458333333333334 lift: 1.5226494099733536
+frozenset({'Onion Dip'})-->frozenset({'Avocado'}) conf: 0.657465495608532 lift: 1.5226494099733539
+frozenset({'Apple & Eve Apple Juice'})-->frozenset({'Avocado'}) conf: 0.6549382716049382 lift: 1.5226494099733536
+frozenset({'Kraft Monterey Jack Cheese'})-->frozenset({'Avocado'}) conf: 0.6453531598513012 lift: 1.5226494099733536
+frozenset({'Clorox 2 Liquid Bleach'})-->frozenset({'Avocado'}) conf: 0.6587143803843606 lift: 1.5226494099733539
+frozenset({'Old El Paso Salsa'})-->frozenset({'Avocado'}) conf: 0.6728354263053536 lift: 1.5226494099733536
+frozenset({'Red Pepper'})-->frozenset({'Avocado'}) conf: 0.6783369803063458 lift: 1.5226494099733539
+frozenset({'Pepsi 1 Liter'})-->frozenset({'Avocado'}) conf: 0.6349431818181819 lift: 1.5226494099733536
+frozenset({'Onion Dip'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.5037641154328732 lift: 2.0714655618850335
+frozenset({'Ocean Spray White Grapefruit Juice'})-->frozenset({'Apple & Eve Apple Juice'}) conf: 0.7413793103448276 lift: 2.4691358024691357
+frozenset({'Apple & Eve Apple Juice'})-->frozenset({'Ocean Spray White Grapefruit Juice'}) conf: 0.5308641975308641 lift: 3.4482758620689657
+frozenset({'Minute Rice Instant White Rice'})-->frozenset({'Avocado'}) conf: 0.6690647482014389 lift: 1.5226494099733539
+frozenset({'Bacon'})-->frozenset({'Avocado'}) conf: 0.6626746506986029 lift: 1.5226494099733539
+frozenset({'Tylenol Infant Liquid'})-->frozenset({'Avocado'}) conf: 0.6971544715447154 lift: 1.5226494099733536
+frozenset({'Johnson & Johnson Safety Swabs'})-->frozenset({'Avocado'}) conf: 0.6528332003192339 lift: 1.5226494099733539
+frozenset({'Bumble Bee Chunk Tuna'})-->frozenset({'Avocado'}) conf: 0.6495037220843671 lift: 1.5226494099733539
+frozenset({'Apples'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.526867627785059 lift: 1.953125
+frozenset({'Bumble Bee Chunk Tuna'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5037220843672456 lift: 1.9531249999999998
+frozenset({'Carnation Powder Baby Formula'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5280345040049291 lift: 1.953125
+frozenset({'Dole 6-Pack Pineapple Juice'})-->frozenset({'RealLemon Pure Lemon Juice'}) conf: 0.505859375 lift: 3.552397868561279
+frozenset({'RealLemon Pure Lemon Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.9200710479573714 lift: 1.953125
+frozenset({'Carnation Powder Baby Formula'})-->frozenset({'Avocado'}) conf: 0.6568083795440542 lift: 1.5226494099733539
+frozenset({'Yo-Ho Potato Chips'})-->frozenset({'Avocado'}) conf: 0.6409574468085106 lift: 1.5226494099733536
+frozenset({'B & M Baked Beans'})-->frozenset({'Avocado'}) conf: 0.6580645161290323 lift: 1.5226494099733539
+frozenset({'Kraft Grated Monterey Jack Cheese'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5 lift: 1.953125
+frozenset({'Kraft Grated Monterey Jack Cheese'})-->frozenset({'Avocado'}) conf: 0.6423220973782771 lift: 1.5226494099733536
+frozenset({'Purina Cat Chow'})-->frozenset({'Avocado'}) conf: 0.6693198263386397 lift: 1.5226494099733539
+frozenset({'Quaker Life'})-->frozenset({'Avocado'}) conf: 0.65083135391924 lift: 1.5226494099733536
+frozenset({'Farberware Cookie Cutters'})-->frozenset({'Avocado'}) conf: 0.6384180790960452 lift: 1.5226494099733539
+frozenset({'Tylenol Infant Liquid'})-->frozenset({'Perdue Chicken Breasts'}) conf: 0.5948509485094851 lift: 2.570694087403599
+frozenset({'Perdue Chicken Breasts'})-->frozenset({'Tylenol Infant Liquid'}) conf: 0.5642673521850899 lift: 2.710027100271003
+frozenset({'Scott 12-Pack White Bath Tissue'})-->frozenset({'Avocado'}) conf: 0.6574550128534704 lift: 1.5226494099733536
+frozenset({'Lettuce'})-->frozenset({'Avocado'}) conf: 0.660023446658851 lift: 1.5226494099733536
+frozenset({"Hershey's 3-pack Chocolate Milk"})-->frozenset({'Avocado'}) conf: 0.6496199032480995 lift: 1.5226494099733539
+frozenset({'Fiji Artesian Water'})-->frozenset({'Avocado'}) conf: 0.652931854199683 lift: 1.5226494099733539
+frozenset({'Oranges'})-->frozenset({'Avocado'}) conf: 0.6452533904354033 lift: 1.5226494099733539
+frozenset({'Kraft Macaroni & Cheese'})-->frozenset({'Avocado'}) conf: 0.646108663729809 lift: 1.5226494099733536
+frozenset({'Mazola Corn Oil'})-->frozenset({'Avocado'}) conf: 0.6450662739322532 lift: 1.5226494099733536
+frozenset({"Newman's Own Italian Dressing"})-->frozenset({'Avocado'}) conf: 0.65149359886202 lift: 1.5226494099733539
+frozenset({'Pillsbury Cake Mix'})-->frozenset({'Avocado'}) conf: 0.6565934065934066 lift: 1.5226494099733539
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado', "Puff's Plus Facial Tissue"}) conf: 0.7031125299281724 lift: 2.2075055187637966
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Avocado', 'Bounty 8-Pack White Paper Towels'}) conf: 0.6347150259067357 lift: 3.4873583260680032
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'Avocado', 'General Mills Multi Bran Chex'}) conf: 0.5518018018018018 lift: 3.9960039960039966
+
+Time: 0.866257905960083
+Support: 0.3
+Confidence: 0.5
+K: 1 items 53
+K: 2 items 3
+K: 3 items 0
+Largest K: 2
+Number of rules in largest K: 6
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Avocado'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.6897601827179293 lift: 2.0714655618850335
+frozenset({'Dole 6-Pack Pineapple Juice'})-->frozenset({'Avocado'}) conf: 0.646484375 lift: 1.5226494099733536
+frozenset({'Avocado'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.5039969547011801 lift: 1.953125
+
+Time: 0.07515978813171387
+Support: 0.5
+Confidence: 0.5
+K: 1 items 2
+K: 2 items 0
+Largest K: 1
+Number of rules in largest K: 0
+Listed rules:
+
+Time: 1.7228038311004639
+Support: 0.2
+Confidence: 0.8
+K: 1 items 71
+K: 2 items 69
+K: 3 items 3
+K: 4 items 0
+Largest K: 3
+Number of rules in largest K: 5
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado'}) conf: 0.805267358339984 lift: 1.5226494099733536
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'RealLemon Pure Lemon Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.9200710479573714 lift: 1.953125
+
+Time: 0.8608047962188721
+Support: 0.3
+Confidence: 0.8
+K: 1 items 53
+K: 2 items 3
+K: 3 items 0
+Largest K: 2
+Number of rules in largest K: 3
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+
+Time: 0.07874703407287598
+Support: 0.5
+Confidence: 0.8
+K: 1 items 2
+K: 2 items 0
+Largest K: 1
+Number of rules in largest K: 0
+Listed rules:
+
+Time: 0.8610291481018066
+Support: 0.3
+Confidence: 0.6
+K: 1 items 53
+K: 2 items 3
+K: 3 items 0
+Largest K: 2
+Number of rules in largest K: 5
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Avocado'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.6897601827179293 lift: 2.0714655618850335
+frozenset({'Dole 6-Pack Pineapple Juice'})-->frozenset({'Avocado'}) conf: 0.646484375 lift: 1.5226494099733536
+
+Time: 0.10690999031066895
+Support: 0.4
+Confidence: 0.5
+K: 1 items 10
+K: 2 items 1
+K: 3 items 0
+Largest K: 2
+Number of rules in largest K: 2
+Listed rules:
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Avocado'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.6897601827179293 lift: 2.0714655618850335
+
+Time: 0.8443372249603271
+Support: 0.3
+Confidence: 0.7
+K: 1 items 53
+K: 2 items 3
+K: 3 items 0
+Largest K: 2
+Number of rules in largest K: 3
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+
+Time: 1.6744909286499023
+Support: 0.2
+Confidence: 0.7
+K: 1 items 71
+K: 2 items 69
+K: 3 items 3
+K: 4 items 0
+Largest K: 3
+Number of rules in largest K: 1
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado'}) conf: 0.805267358339984 lift: 1.5226494099733536
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Skippy Peanut Butter'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.7541899441340782 lift: 2.0714655618850335
+frozenset({'Ocean Spray White Grapefruit Juice'})-->frozenset({'Apple & Eve Apple Juice'}) conf: 0.7413793103448276 lift: 2.4691358024691357
+frozenset({'RealLemon Pure Lemon Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.9200710479573714 lift: 1.953125
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado', "Puff's Plus Facial Tissue"}) conf: 0.7031125299281724 lift: 2.2075055187637966
+
+Time: 21.82018804550171
+Support: 0.1
+Confidence: 0.7
+K: 1 items 89
+K: 2 items 1701
+K: 3 items 365
+K: 4 items 9
+K: 5 items 0
+Largest K: 4
+Number of rules in largest K: 3
+Listed rules:
+frozenset({'General Mills Multi Bran Chex'})-->frozenset({'Bounty 8-Pack White Paper Towels'}) conf: 0.9766839378238342 lift: 2.2522522522522523
+frozenset({'Bounty 8-Pack White Paper Towels'})-->frozenset({'General Mills Multi Bran Chex'}) conf: 0.8490990990990991 lift: 2.5906735751295336
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado'}) conf: 0.805267358339984 lift: 1.5226494099733536
+frozenset({"Puff's Plus Facial Tissue"})-->frozenset({'Avocado'}) conf: 0.9383738995339203 lift: 1.5226494099733539
+frozenset({'Tomato'})-->frozenset({'White Bread'}) conf: 0.7444444444444445 lift: 5.095541401273885
+frozenset({'White Bread'})-->frozenset({'Tomato'}) conf: 0.8535031847133758 lift: 4.444444444444444
+frozenset({'Skippy Peanut Butter'})-->frozenset({"Puff's Plus Facial Tissue"}) conf: 0.7541899441340782 lift: 2.0714655618850335
+frozenset({'Ocean Spray White Grapefruit Juice'})-->frozenset({'Apple & Eve Apple Juice'}) conf: 0.7413793103448276 lift: 2.4691358024691357
+frozenset({'RealLemon Pure Lemon Juice'})-->frozenset({'Dole 6-Pack Pineapple Juice'}) conf: 0.9200710479573714 lift: 1.953125
+frozenset({'Tostitos Corn Chips'})-->frozenset({'Lettuce'}) conf: 0.8669438669438669 lift: 2.3446658851113718
+frozenset({'Skippy Peanut Butter'})-->frozenset({'Avocado', "Puff's Plus Facial Tissue"}) conf: 0.7031125299281724 lift: 2.2075055187637966
+frozenset({"Puff's Plus Facial Tissue", 'General Mills Multi Bran Chex'})-->frozenset({'Avocado', 'Bounty 8-Pack White Paper Towels'}) conf: 0.9089673913043479 lift: 3.4873583260680032
+frozenset({"Puff's Plus Facial Tissue", 'Bounty 8-Pack White Paper Towels'})-->frozenset({'Avocado', 'General Mills Multi Bran Chex'}) conf: 0.7945368171021379 lift: 3.9960039960039966
+frozenset({"Puff's Plus Facial Tissue", 'RealLemon Pure Lemon Juice'})-->frozenset({'Avocado', 'Dole 6-Pack Pineapple Juice'}) conf: 0.8400735294117647 lift: 3.021148036253776
+
+
+Process finished with exit code 0
